@@ -13,5 +13,5 @@ for i in range(t):
         summa2 += b
         print(a, b)
     print(x * z - summa1, y * z - summa2)
-    #
+    #fdsg
 
